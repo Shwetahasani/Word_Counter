@@ -1,0 +1,45 @@
+/* styles.css */
+
+.container {
+    margin: 20px;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 10px; 
+    font-size: 16px; 
+    /* margin-left: 10px; */
+  }
+  
+  .btn {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 5px;
+    color: blue;
+    background-color:antiquewhite;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  h2 {
+    font-size: 20px;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  .details{
+    width: auto;
+    background-color: grey;
+    position: relative;
+  padding-left: 10px;
+  }
+.details-icon{
+  position: absolute;
+  top: 0;
+  right: 0;
+  
+  }
+  
